@@ -1,0 +1,2 @@
+--data of battles / trading / npc interaction
+--make sure players dont multitask

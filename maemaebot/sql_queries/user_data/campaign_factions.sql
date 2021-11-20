@@ -1,0 +1,1 @@
+-- data for campaign factions, their opinion of players, modifiers to roles

@@ -1,0 +1,1 @@
+-- a master table for users, can ensure if they want their assets public or not
